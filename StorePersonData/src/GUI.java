@@ -37,8 +37,8 @@ public class GUI  implements ActionListener {
 	 * 
 	 * There is a "Tab" field on the window and we can select between two display.
 	 * One is the "Main" tab and the other is the "Table" tab.
-	 * The "Main" tab is contents a simple "TextArea" field. 
-	 * The "Table" tab  is contents a simple  "Table" field.
+	 * The "Main" tab is contains a simple "TextArea" field. 
+	 * The "Table" tab  is contains a simple  "Table" field.
 	 * 
 	 * 
 	 * If we added the two value, these will be appearing on the "TextArea" and on the "Table" field.
